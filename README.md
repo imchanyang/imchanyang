@@ -4,7 +4,7 @@
 
 🌱 Developer
 
-🤔 I am interested in Backend, Cryptography, BlockChain
+🤔 I am interested in Backend, Cryptography, BlockChain and Deep Learning
 
 
 <!--
