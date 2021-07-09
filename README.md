@@ -6,7 +6,7 @@
 
 🤔 I am interested in Backend, Cryptography, BlockChain and Deep Learning
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchanyang ?hide=)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchanyang)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
