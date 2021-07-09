@@ -2,11 +2,11 @@
 
 💻 Computer Science
 
-🌱 Developer
+🌱 Developer [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchanyang&hide=Makefile&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 🤔 I am interested in Backend, Cryptography, BlockChain and Deep Learning
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchanyang&hide=Makefile&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
