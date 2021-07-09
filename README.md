@@ -5,7 +5,7 @@
 🌱 Developer 
 
 
-🤔 I am interested in Backend, Cryptography, BlockChain and Deep Learning
+🤔 I am interested in Backend, Cryptography, BlockChain and DL, ML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchanyang&hide=Makefile&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
