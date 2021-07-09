@@ -1,6 +1,8 @@
-### 😋
+### Hello😋
 
-💻 컴퓨터공학전공
+💻 Computer Science
+🌱 Developer
+🤔 I am interested in Backend, Cryptography, BlockChain
 
 <!--
 **imchanyang/imchanyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
