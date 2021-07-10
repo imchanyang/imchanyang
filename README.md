@@ -12,6 +12,10 @@
 
 🤔 I am interested in Backend and Cryptography, BlockChain and DL, ML
 
+
+
+https://velog.io/@imchanyang
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchanyang&hide=Makefile&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
