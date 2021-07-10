@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchanyang&hide=Makefile&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/bootstrap-#00599C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-00599C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 
 <!--
