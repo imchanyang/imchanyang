@@ -6,14 +6,6 @@
 
 
 
-🌱 Developer 
-
-
-
-🤔 I am interested in Backend and Cryptography, BlockChain and DL, ML
-
-
-
 💡 Tech Blog https://velog.io/@imchanyang
 
 
