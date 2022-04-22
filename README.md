@@ -8,6 +8,8 @@
 
 💡 Tech Blog https://velog.io/@imchanyang
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchanyang&langs_count=8&hide=makefile,shell&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
